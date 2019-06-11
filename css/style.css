@@ -334,7 +334,7 @@
 
 		ul.style .fa {
 			float: left;
-			display: inline-block;
+			/* display: inline-block; */
 			width: 80px;
 			height: 80px;
 			margin-right: 1em;
